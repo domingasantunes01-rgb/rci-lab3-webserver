@@ -1,0 +1,15 @@
+# Apenas o exigido pelo enunciado
+*
+!.gitignore
+!.gitattributes
+!Vagrantfile
+!html/
+!html/websever.py
+!html/webclient.py
+!prints/
+!prints/p4-telnet.png
+!prints/p5-webclient.png
+!prints/p6-telnet-inicio.png
+!prints/p6-telnet-fim.png
+!prints/p7-webclient-inicio.png
+!prints/p7-webclient-fim.png
